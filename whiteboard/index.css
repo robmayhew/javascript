@@ -1,0 +1,21 @@
+.controls {
+    display: flex;
+    align-items: center;
+    flex: 5 5 100px;
+}
+ .controls div {
+        padding-right: 1em;
+        display: flex;
+        align-items: center;
+     border: 1px solid darkgrey;
+     padding-left: .25em;
+}
+
+.controls div span
+{
+    font-weight: bold;
+    padding-right: .5em;
+}
+
+
+
